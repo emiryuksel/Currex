@@ -16,7 +16,7 @@
 
 ## 🚀 Live Demo
 
-> Coming soon...
+> https://emiryuksel.site/projects/currex/index.html
 
 ---
 
