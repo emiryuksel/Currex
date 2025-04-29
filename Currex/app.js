@@ -16,7 +16,9 @@ function eventListeners() {
     ui.changeFirst();
   };
   secondSelect.onchange = function () {
-    secondSelect.options[secondSelect.selectedIndex].textContent;
+    currency.changeSecondCurrency(
+      secondSelect.options[secondSelect.selectedIndex].textContent
+    );
     ui.changeSecond();
   };
 }
