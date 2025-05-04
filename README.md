@@ -1,6 +1,13 @@
 # 💱 Currex
 
 **Currex** is a simple, stylish and responsive currency converter web app built with HTML, CSS (Bootstrap), and JavaScript. It allows users to convert between different currencies using real-time exchange rates.
+---
+
+
+## 🚀 Live Demo
+
+> https://emiryuksel.site/projects/currex
+
 
 ---
 
