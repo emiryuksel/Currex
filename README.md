@@ -4,19 +4,19 @@
 
 ---
 
-## 🌍 Features
+## 🚀 Live Demo
+
+> https://emiryuksel.site/projects/currex
+
+---
+
+## ✨ Features
 
 - 🔄 Real-time currency conversion
 - 💵 Supports 30+ currencies
 - 🧮 Easy-to-use interface
 - 🎯 Clean, responsive Bootstrap design
 - ⚡ Lightweight and fast
-
----
-
-## 🚀 Live Demo
-
-> https://emiryuksel.site/projects/currex
 
 ---
 
